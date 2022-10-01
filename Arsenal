@@ -1,1 +1,3 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/GalaxyProjectScrips/GalaxyProject/main/Arsenal")))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/GalaxyProjectScrips/GalaxyProject/main/Arsenal")))() arsenal
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/GalaxyProjectScrips/GalaxyProject/main/clickingsim")))() tapping sim
